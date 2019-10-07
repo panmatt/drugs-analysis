@@ -1,0 +1,7 @@
+Before executing the .py file , make sure to have the following mudules installed:
+
+- matplotlib
+- pandas
+- numpy
+
+You can install those through Pip. Also , in order to run the program , you MUST use Python 3.7.
